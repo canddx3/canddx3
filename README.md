@@ -1,4 +1,4 @@
-<img align="center" alt="mount rainer" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Mount_Rainier_from_west.jpg" />
+<img text-align="center" alt="mount rainer" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Mount_Rainier_from_west.jpg"/>
 ### Hi there, I'm Chad 👋
 ## I'm a Father, Developer, and Lover of the Outdoors!!
 
