@@ -9,14 +9,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />][linkedin]
-[<img align="left" alt="facebook | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] 
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="facebook | Instagram" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook] 
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="javaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
@@ -25,7 +25,6 @@
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="cordova" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cordova/cordova.png" />][cordova]
 
 <br />
 <br />
@@ -47,4 +46,3 @@
 [java]: https://github.com/canddx3/BackendProject
 [express]: https://github.com/canddx3/ExpressCourse/tree/main
 [python]: https://www.py4e.com/tools/pythonauto/?PHPSESSID=1abf5ac66068cc029d77e7c771584070
-[cordova]: https://github.com/canddx3/CordovaApp
