@@ -1,4 +1,4 @@
-[<p text-align: center>][mt.rainer]</p>
+[<p text-align: center></p>][mt.rainer]
 ### Hi there, I'm Chad 👋
 ## I'm a Father, Developer, and Lover of the Outdoors!!
 
