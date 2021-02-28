@@ -1,3 +1,4 @@
+Format: ![Alt Text](url)"https://upload.wikimedia.org/wikipedia/commons/e/eb/Mount_Rainier_from_west.jpg" />]
 ### Hi there, I'm Chad 👋
 ## I'm a Father, Developer, and Lover of the Outdoors!!
 
@@ -34,7 +35,7 @@
 
 <details>
   <summary>:zap: Remote Group Project</summary>
-1. Charity Builders (https://github.com/canddx3/FrontendProject in [react/java]
+1. Charity Builders (https://github.com/canddx3/FrontendProject), (https://github.com/canddx3/BackendProject) in [react/java]
 </details>
 
 [linkedin]: https://www.linkedin.com/in/chad-conley
@@ -47,3 +48,4 @@
 [java]: https://github.com/canddx3/BackendProject
 [express]: https://github.com/canddx3/ExpressCourse/tree/main
 [python]: https://www.py4e.com/tools/pythonauto/?PHPSESSID=1abf5ac66068cc029d77e7c771584070
+[mt.rainer]: https://upload.wikimedia.org/wikipedia/commons/e/eb/Mount_Rainier_from_west.jpg
