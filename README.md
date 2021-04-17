@@ -35,7 +35,7 @@
 
 <details>
   <summary>:zap: Remote Group Project</summary>
-1. Charity Builders (https://github.com/canddx3/CommunityBuildersReact), (https://github.com/canddx3/CommunityBuildersJava) in [react/java]
+1. Community Builders (https://github.com/canddx3/CommunityBuildersReact), (https://github.com/canddx3/CommunityBuildersJava) in [react/java]
 </details>
 
 [linkedin]: https://www.linkedin.com/in/chad-conley
